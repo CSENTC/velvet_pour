@@ -98,13 +98,36 @@ Vite serves as the development environment and build tool, providing fast startu
 
 ---
 
+<<<<<<< HEAD
+=======
+# Project Structure
+
+```
+src/
+│
+├── assets/          # Images, videos, fonts, icons
+├── components/      # Reusable UI components
+├── sections/        # Individual landing page sections
+├── hooks/           # Custom React hooks
+├── utils/           # Animation helpers and utilities
+├── styles/          # Global styles
+├── App.jsx
+└── main.jsx
+```
+
+---
+>>>>>>> ba2707465466dd4788bf1acc775e740e40d4a5d9
 
 # Installation
 
 Clone the repository:
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/CSENTC/velvet_pour
+=======
+git clone <repository-url>
+>>>>>>> ba2707465466dd4788bf1acc775e740e40d4a5d9
 ```
 
 Navigate to the project directory:
@@ -232,4 +255,8 @@ Built with:
 - ScrollTrigger
 - SplitText
 - Tailwind CSS
+<<<<<<< HEAD
 - Vite
+=======
+- Vite
+>>>>>>> ba2707465466dd4788bf1acc775e740e40d4a5d9
